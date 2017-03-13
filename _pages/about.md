@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
+subtitle: Ipkkkk.
 desc: About me.
 permalink: /about/
 ---
