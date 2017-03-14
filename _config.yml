@@ -32,11 +32,11 @@ navigation:
   - title: Materias
     url: /materias/
     desc: Apuntes!
-  - title: Intereses
-    url: /intereses/
+  - title: work
+    url: /work/
     desc: Cosas extra!
-  - title: info
-    url: /info/
+  - title: about
+    url: /about/
     desc: información extra! 
 
 # Used by Jekyll to recognize what is a post and what is a page
