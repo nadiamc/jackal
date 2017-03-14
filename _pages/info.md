@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-subtitle: Ipkkkk.
-desc: About me.
-permalink: /about/
+title: Info
+subtitle: Información extra.
+desc: Información extra.
+permalink: /info/
 ---
 
 <div class="pretty-links">
