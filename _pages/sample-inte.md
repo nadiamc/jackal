@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project
-permalink: work/sample-work/
-subtitle: Sample work
+title: Intereses
+permalink: intereses/sample-inte/
+subtitle: Intereses
 ---
 
 ## Liber orbes sternentemque nunc mortalia rotae supplex
