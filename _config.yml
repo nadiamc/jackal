@@ -1,17 +1,18 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: hh               # used for the html title of every page
+title: Ciencias de la Computación.             # used for the html title of every page
 desc: >
-  jjj
+  Página con apuntes de la carrera de Ciencias de la Computación de la Universidad de Buenos Aires.
 
-url: http://jackal.com      # put your website hosting url here
+url: http://nadiamc.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: o
-author: The Jackal
+email: nadianoe.mc@gmail.com
+
+author: Nadia MC
 
 
 # Put your ga tracking code below
